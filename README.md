@@ -15,4 +15,7 @@ $ python3 object_tracking.py```
 <img src="Screenshot from 2023-06-20 17-37-55.png"  width="700" height="370">
 
 [영상 속 코드](object_tracking.py)
+
+</br>
+
 위 코드에서 빠진 부분을 채워보세요.
