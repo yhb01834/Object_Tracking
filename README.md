@@ -10,8 +10,8 @@ Terminator를 열고 오른쪽 마우스를 클릭해서 split Horizontally or V
 </br>
 
 ```$ cd jetauto_ws/src/jetauto_example/scripts/tracker/
-$ python3 object_tracking.py```
-
+   $ python3 object_tracking.py
+```
 
 각각 실행해줍니다.
 </br>
